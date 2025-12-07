@@ -15,7 +15,7 @@ The blueprint leverages a powerful stack of Microsoft technologies, each serving
 | Tool                          | Description                                                                                                          | Best For                                                                                           | Usage Scope                                                                          |
 | :---------------------------- | :------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
 | **Copilot Studio**            | A full-featured, graphical **low-code** agent builder.                                                               | Automating **complex, multi-step workflows** and creating public-facing agents.                    | **Enterprise/Complex Scenarios** (Broad Audience, Custom Integrations)               |
-| **Copilot Studio Lite**       | A lightweight, fast-start version of Copilot Studio with a simplified interface.                                     | Quick setup and **MVPs** for internal, M365-centric tasks.               | **Standard/Individual Users** (Internal, Personal/Small Team Use)                    |
+| **Copilot Studio Lite**       | A lightweight, fast-start version of Copilot Studio with a simplified interface.                                     | Quick setup and **MVPs** for internal, M365-centric tasks.                                         | **Standard/Individual Users** (Internal, Personal/Small Team Use)                    |
 | **Microsoft Agent Framework** | A **code-heavy** architecture (like Semantic Kernel or AutoGen) for designing complex agent logic and orchestration. | Building robust, specialized, and highly customizable **multi-agent** systems.                     | **Expert Developers** building **Custom/Advanced Solutions** requiring deep control. |
 | **Azure AI Foundry**          | The foundational **code-first PaaS** for provisioning, managing, and scaling AI models and agents.                   | Managing **Enterprise-ready** deployments, custom model control, and strict governance/compliance. | **IT/Ops Teams** managing **Enterprise-Scale Deployments** and full AI lifecycle.    |
 
@@ -59,4 +59,4 @@ Dive into the documentation within this repository to explore practical guides o
 * Setting up your development environment.
 * Tutorials for building your first agent with Copilot Studio.
 * Code examples for multi-agent orchestration using the Microsoft Agent Framework.
-* Deployment best practices using Azure AI Foundry.
+* Deployment best practices using Azu
