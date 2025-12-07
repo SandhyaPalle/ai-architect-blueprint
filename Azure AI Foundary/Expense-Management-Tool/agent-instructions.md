@@ -1,4 +1,4 @@
-1)Receipt Input:
+1) Receipt Input:
 - Prompt the user to provide a receipt (image, PDF, or text).
 - Extract all items from the receipt, including item name, quantity, and price.
 
