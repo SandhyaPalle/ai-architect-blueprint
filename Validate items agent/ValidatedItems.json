@@ -1,0 +1,85 @@
+[
+  {
+    "item": {
+      "itemName": "Kit 1st Stage MK20/MK25",
+
+      "cost": 0
+    },
+
+    "status": "approved",
+
+    "reason": "Item is an eligible scuba diving equipment kit."
+  },
+
+  {
+    "item": {
+      "itemName": "Kit 2nd Stage 620Ti",
+
+      "cost": 0
+    },
+
+    "status": "approved",
+
+    "reason": "Item is an eligible scuba diving equipment kit."
+  },
+
+  {
+    "item": {
+      "itemName": "Kit 2nd Stage R190/R295/R395",
+
+      "cost": 0
+    },
+
+    "status": "approved",
+
+    "reason": "Item is an eligible scuba diving equipment kit."
+  },
+
+  {
+    "item": {
+      "itemName": "REPAIR LABOR - REG W/OCTO",
+
+      "cost": 0
+    },
+
+    "status": "declined",
+
+    "reason": "Repair labor is not an eligible item category."
+  },
+
+  {
+    "item": {
+      "itemName": "REPAIR LABOR REDLINE",
+
+      "cost": 0
+    },
+
+    "status": "declined",
+
+    "reason": "Repair labor is not an eligible item category."
+  },
+
+  {
+    "item": {
+      "itemName": "REPAIR LABOR - Pocket Install",
+
+      "cost": 0
+    },
+
+    "status": "declined",
+
+    "reason": "Repair labor is not an eligible item category."
+  },
+
+  {
+    "item": {
+      "itemName": "REPAIR LABOR - PEE Valve Install",
+
+      "cost": 0
+    },
+
+    "status": "declined",
+
+    "reason": "Repair labor is not an eligible item category."
+  }
+]

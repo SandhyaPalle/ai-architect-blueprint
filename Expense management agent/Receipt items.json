@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Kit 1st Stage MK20/MK25",
+      "cost": 50
+    },
+    {
+      "name": "Kit 2nd Stage 620Ti",
+      "cost": 50
+    },
+    {
+      "name": "Kit 2nd Stage R190/R295/R395",
+      "cost": 35
+    },
+    {
+      "name": "REPAIR LABOR - REG W/OCTO",
+      "cost": 105
+    },
+    {
+      "name": "REPAIR LABOR REDLINE",
+      "cost": 50
+    },
+    {
+      "name": "REPAIR LABOR - Pocket Install",
+      "cost": 65
+    },
+    {
+      "name": "REPAIR LABOR - PEE Valve Install",
+      "cost": 60
+    }
+  ]
